@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pbbNavDrawer</string>
+    <string name="home">Home</string>
+    <string name="explore_india">Explore India</string>
+    <string name="create_tour">Create Tour</string>
+    <string name="why_book_us">Why Book Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="pack_back_buddy">Pack Back Buddy</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+
+</resources>
